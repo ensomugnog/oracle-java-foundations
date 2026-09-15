@@ -8,6 +8,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
 
 - [x] 01 - Overview
 
+  - [x] 01 - Course Introduction
+
 ## Repository configuration
 
 Each submodule in this repository contains the code examples of the original course.
