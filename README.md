@@ -10,7 +10,7 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
 
   - [x] 01 - Course Introduction
 
-  - [x] 02 - Introduction to Java Basics
+- [x] 02 - Introduction to Java Basics
 
 ## Repository configuration
 
