@@ -15,6 +15,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   - [x] 01 - Introduction to Java
 
   - [x] 02 - A Simple Java Application [ [ojf-test](https://github.com/ensomugnog/ojf-test) -> [e49052d2b65fcf4a9c8aa462ee9ef4ed5b0d8f70](https://github.com/ensomugnog/ojf-test/commit/e49052d2b65fcf4a9c8aa462ee9ef4ed5b0d8f70) ]
+  
+  - [x] 03 - Java Development Tools
 
 ## Repository configuration
 
