@@ -14,6 +14,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   
   - [x] 01 - Introduction to Java
 
+  - [x] 02 - A Simple Java Application [ [ojf-test](https://github.com/ensomugnog/ojf-test) -> [e49052d2b65fcf4a9c8aa462ee9ef4ed5b0d8f70](https://github.com/ensomugnog/ojf-test/commit/e49052d2b65fcf4a9c8aa462ee9ef4ed5b0d8f70) ]
+
 ## Repository configuration
 
 Each submodule in this repository contains the code examples of the original course.
@@ -24,7 +26,7 @@ Create a new repository on Github, then execute the following commands to link t
 
 ```
 $ cd oracle-java-foundations
-$ git submodule add -b main git@github.com:ensomugnog/ojf-submodule
+$ git submodule add -b main git@github.com:ensomugnog/ojf-test
 ```
 
 Using the **-b** argument means we want to follow the main branch of the new repository, and after running this command we’ll have a new directory named `ojf-submodule/`, this directory will automaticaly checkout the main branch for you to be ready to make changes.
