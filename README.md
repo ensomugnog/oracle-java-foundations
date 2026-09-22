@@ -18,7 +18,7 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   
   - [x] 03 - Java Development Tools
   
-  - [x] 04 - Practice 1-1: Course Environment Setup [ [ojf-practice-01](https://github.com/ensomugnog/ojf-practice-01) -> [95185914543a65d824717fa3605b3d0d6473222f](https://github.com/ensomugnog/ojf-practice-01/commit/95185914543a65d824717fa3605b3d0d6473222f) ]
+  - [x] 04 - Practice 1-1: Course Environment Setup [ [ojf-practice-01](https://github.com/ensomugnog/ojf-practice-01) -> [9518591](https://github.com/ensomugnog/ojf-practice-01/commit/95185914543a65d824717fa3605b3d0d6473222f) ]
 
 ## Repository configuration
 
