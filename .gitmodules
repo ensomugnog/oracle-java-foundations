@@ -2,3 +2,7 @@
 	path = ojf-practice-01
 	url = git@github.com:ensomugnog/ojf-practice-01
 	branch = main
+[submodule "ojf-lab-01"]
+	path = ojf-lab-01
+	url = git@github.com:ensomugnog/ojf-lab-01
+	branch = main
