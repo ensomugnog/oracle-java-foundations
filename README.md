@@ -24,8 +24,9 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   
 - [x] 03 - Handling Text and Numbers
   
-  - [x] 01 - Variables, Constants and Types 
-
+  - [x] 01 - Variables, Constants and Types
+  
+  - [x] 02 - Operators
 
 ## Repository configuration
 
