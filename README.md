@@ -22,7 +22,7 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   
   - [x] 05 - Practice 1-2: Creating, Compiling, and Executing a Java Application [ [ojf-duke-labs](https://github.com/ensomugnog/ojf-duke-labs) -> [cdc658d](https://github.com/ensomugnog/ojf-duke-labs/commit/cdc658d648325ed98d008c3e23d95dbabf9537b7) ]
   
-- [X] 03 - Handling Text and Numbers
+- [x] 03 - Handling Text and Numbers
 
 
 ## Repository configuration
