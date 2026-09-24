@@ -6,3 +6,7 @@
 	path = ojf-duke-labs
 	url = git@github.com:ensomugnog/ojf-duke-labs
 	branch = main
+[submodule "ojf-practice-02"]
+	path = ojf-practice-02
+	url = git@github.com:ensomugnog/ojf-practice-02
+	branch = main
