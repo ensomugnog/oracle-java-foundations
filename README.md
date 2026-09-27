@@ -33,6 +33,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   - [x] 03 - Operation Results 
   
   - [x] 04 - Practice 2-1: Working with Variables and Constants [ [ojf-practice-02](https://github.com/ensomugnog/ojf-practice-02) -> [8fb4b72](https://github.com/ensomugnog/ojf-practice-02/commit/8fb4b72a5a350dc573dbebb7a17e093115809901) ]
+  
+  - [X] 05 - Work with Text values 
 
 ## Repository configuration
 
