@@ -34,7 +34,9 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   
   - [x] 04 - Practice 2-1: Working with Variables and Constants [ [ojf-practice-02](https://github.com/ensomugnog/ojf-practice-02) -> [8fb4b72](https://github.com/ensomugnog/ojf-practice-02/commit/8fb4b72a5a350dc573dbebb7a17e093115809901) ]
   
-  - [X] 05 - Work with Text values 
+  - [x] 05 - Work with Text values
+  
+  - [x] 06 - Practice 3-1: Working with Strings [ [ojf-practice-03](https://github.com/ensomugnog/ojf-practice-03) -> [694e224167eddeb14f58cb26b9447b5609fcdb74](https://github.com/ensomugnog/ojf-practice-03/commit/694e224) ]
 
 ## Repository configuration
 
@@ -46,7 +48,7 @@ Create a new repository on Github, then execute the following commands to link t
 
 ```
 $ cd oracle-java-foundations
-$ git submodule add -b main git@github.com:ensomugnog/ojf-practice-01
+$ git submodule add -b main git@github.com:ensomugnog/ojf-practice-03
 ```
 
 Using the **-b** argument means we want to follow the main branch of the new repository, and after running this command we’ll have a new directory named `ojf-submodule/`, this directory will automaticaly checkout the main branch for you to be ready to make changes.
