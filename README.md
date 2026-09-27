@@ -4,7 +4,7 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
 
 **Course**: [https://mylearn.oracle.com/ou/course/oracle-java-foundations/152254/251448](https://mylearn.oracle.com/ou/course/oracle-java-foundations/152254/251448)
 
-## Course Progress: 25%
+## Course Progress: 37.5%
 
 ## Course content
 
@@ -38,7 +38,7 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   
   - [x] 06 - Practice 3-1: Working with Strings [ [ojf-practice-03](https://github.com/ensomugnog/ojf-practice-03) -> [694e224](https://github.com/ensomugnog/ojf-practice-03/commit/694e224167eddeb14f58cb26b9447b5609fcdb74) ]
 
-- [x] 04 - Arrays, Conditions, and Loops 
+- [x] 04 - Arrays, Conditions, and Loops
 
 ## Repository configuration
 
