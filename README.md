@@ -41,6 +41,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
 - [x] 04 - Arrays, Conditions, and Loops
 
   - [x] 01 - Work with Arrays
+  
+  - [x] 02 - Practice 4-1: Working with Arrays [ [ojf-practice-04](https://github.com/ensomugnog/ojf-practice-04) -> [9b4b5bd](https://github.com/ensomugnog/ojf-practice-04/commit/9b4b5bd37f47cd34df7fac3f6ac8a81e09052f3f) ]
 
 ## Repository configuration
 
@@ -52,7 +54,7 @@ Create a new repository on Github, then execute the following commands to link t
 
 ```
 $ cd oracle-java-foundations
-$ git submodule add -b main git@github.com:ensomugnog/ojf-practice-03
+$ git submodule add -b main git@github.com:ensomugnog/ojf-practice-04
 ```
 
 Using the **-b** argument means we want to follow the main branch of the new repository, and after running this command we’ll have a new directory named `ojf-submodule/`, this directory will automaticaly checkout the main branch for you to be ready to make changes.
