@@ -43,6 +43,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   - [x] 01 - Work with Arrays
   
   - [x] 02 - Practice 4-1: Working with Arrays [ [ojf-practice-04](https://github.com/ensomugnog/ojf-practice-04) -> [9b4b5bd](https://github.com/ensomugnog/ojf-practice-04/commit/9b4b5bd37f47cd34df7fac3f6ac8a81e09052f3f) ]
+  
+  - [x] 03 - Write Loops
 
 ## Repository configuration
 
