@@ -46,6 +46,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   
   - [x] 03 - Write Loops
 
+  - [x] 04 - Write if/else constructs
+
 ## Repository configuration
 
 Each submodule in this repository contains the code examples of the original course.
