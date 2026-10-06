@@ -18,3 +18,7 @@
 	path = ojf-practice-04
 	url = git@github.com:ensomugnog/ojf-practice-04
 	branch = main
+[submodule "ojf-practice-05"]
+	path = ojf-practice-05
+	url = git@github.com:ensomugnog/ojf-practice-05
+	branch = main

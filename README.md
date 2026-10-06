@@ -48,7 +48,9 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
 
   - [x] 04 - Write if/else constructs
   
-  - [x] 05 - Write switch/case constructs 
+  - [x] 05 - Write switch/case constructs
+  
+  - [x] 06 - Practice 5-1: Controlling Program Flow [ [ojf-practice-05](https://github.com/ensomugnog/ojf-practice-05) -> [4e8ad06](https://github.com/ensomugnog/ojf-practice-05/commit/4e8ad066ae58e400a4c14d25392f4c3bc2ce0a43) ]
 
 ## Repository configuration
 
@@ -60,7 +62,7 @@ Create a new repository on Github, then execute the following commands to link t
 
 ```
 $ cd oracle-java-foundations
-$ git submodule add -b main git@github.com:ensomugnog/ojf-practice-04
+$ git submodule add -b main git@github.com:ensomugnog/ojf-practice-05
 ```
 
 Using the **-b** argument means we want to follow the main branch of the new repository, and after running this command we’ll have a new directory named `ojf-submodule/`, this directory will automaticaly checkout the main branch for you to be ready to make changes.
