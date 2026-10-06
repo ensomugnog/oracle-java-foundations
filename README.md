@@ -47,6 +47,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   - [x] 03 - Write Loops
 
   - [x] 04 - Write if/else constructs
+  
+  - [x] 05 - Write switch/case constructs 
 
 ## Repository configuration
 
