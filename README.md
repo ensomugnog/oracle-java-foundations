@@ -52,6 +52,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   
   - [x] 06 - Practice 5-1: Controlling Program Flow [ [ojf-practice-05](https://github.com/ensomugnog/ojf-practice-05) -> [4e8ad06](https://github.com/ensomugnog/ojf-practice-05/commit/4e8ad066ae58e400a4c14d25392f4c3bc2ce0a43) ]
 
+- [x] 05 - Defining Classes and Creating Objects
+
 ## Repository configuration
 
 Each submodule in this repository contains the code examples of the original course.
