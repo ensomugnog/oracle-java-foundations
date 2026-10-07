@@ -63,6 +63,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   - [x] 04 - Work with Objects
   
   - [x] 05 - Overload Methods
+  
+  - [x] 06 - Practice 7-1: Working with Classes [ [ojf-duke-labs](https://github.com/ensomugnog/ojf-duke-labs) -> [6a79b9d](https://github.com/ensomugnog/ojf-duke-labs/commit/6a79b9dd43fee5aa7444ec7644baf963dea3e276) ]
 
 ## Repository configuration
 
