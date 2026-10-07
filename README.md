@@ -61,6 +61,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   - [x] 03 - Create Classes and Objects
   
   - [x] 04 - Work with Objects
+  
+  - [x] 05 - Overload Methods
 
 ## Repository configuration
 
