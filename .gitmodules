@@ -22,3 +22,7 @@
 	path = ojf-practice-05
 	url = git@github.com:ensomugnog/ojf-practice-05
 	branch = main
+[submodule "ojf-practice-06"]
+	path = ojf-practice-06
+	url = git@github.com:ensomugnog/ojf-practice-06
+	branch = main
