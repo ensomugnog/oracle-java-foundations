@@ -59,6 +59,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   - [x] 02 - Practice 6-1: Working with Methods [ [ojf-practice-06](https://github.com/ensomugnog/ojf-practice-06) -> [1a351bb](https://github.com/ensomugnog/ojf-practice-06/commit/1a351bb57fb2b058a016b0817fd14cb57d56609d) ]
   
   - [x] 03 - Create Classes and Objects
+  
+  - [x] 04 - Work with Objects
 
 ## Repository configuration
 
