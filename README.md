@@ -70,6 +70,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   
   - [x] 08 - Java code Aggregations
 
+  - [x] 09 - Practice 8-1: Enhancing Class Design [ [ojf-duke-labs](https://github.com/ensomugnog/ojf-duke-labs) -> [2d995bf](https://github.com/ensomugnog/ojf-duke-labs/commit/2d995bfcc1cf1e4e7abf3faa7c7075b6ee74c420) ]
+
 ## Repository configuration
 
 Each submodule in this repository contains the code examples of the original course.
