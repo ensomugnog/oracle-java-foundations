@@ -4,7 +4,7 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
 
 **Course**: [https://mylearn.oracle.com/ou/course/oracle-java-foundations/152254/251448](https://mylearn.oracle.com/ou/course/oracle-java-foundations/152254/251448)
 
-## Course Progress: 50%
+## Course Progress: 62.5%
 
 ## Course content
 
@@ -75,6 +75,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   - [x] 10 - Use Class Context
   
   - [x] 11 - Practice 9-1: Using Class Methods and Variables [ [ojf-duke-labs](https://github.com/ensomugnog/ojf-duke-labs) -> [23bd8de](https://github.com/ensomugnog/ojf-duke-labs/commit/23bd8de942fe56fdafc489cf645dba2089b2d21e) ]
+  
+- [x] 06 - Object-Oriented Approach to Code Reuse
 
 ## Repository configuration
 
