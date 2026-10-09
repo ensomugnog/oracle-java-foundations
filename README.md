@@ -73,6 +73,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   - [x] 09 - Practice 8-1: Enhancing Class Design [ [ojf-duke-labs](https://github.com/ensomugnog/ojf-duke-labs) -> [2d995bf](https://github.com/ensomugnog/ojf-duke-labs/commit/2d995bfcc1cf1e4e7abf3faa7c7075b6ee74c420) ]
   
   - [x] 10 - Use Class Context
+  
+  - [x] 11 - Practice 9-1: Using Class Methods and Variables [ [ojf-duke-labs](https://github.com/ensomugnog/ojf-duke-labs) -> [23bd8de](https://github.com/ensomugnog/ojf-duke-labs/commit/23bd8de942fe56fdafc489cf645dba2089b2d21e) ]
 
 ## Repository configuration
 
