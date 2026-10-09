@@ -77,6 +77,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   - [x] 11 - Practice 9-1: Using Class Methods and Variables [ [ojf-duke-labs](https://github.com/ensomugnog/ojf-duke-labs) -> [23bd8de](https://github.com/ensomugnog/ojf-duke-labs/commit/23bd8de942fe56fdafc489cf645dba2089b2d21e) ]
   
 - [x] 06 - Object-Oriented Approach to Code Reuse
+  
+  - [x] 01 - Java Inheritance 
 
 ## Repository configuration
 
