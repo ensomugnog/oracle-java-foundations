@@ -85,6 +85,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   - [x] 03 - Practice 10-1: Reusing Code Through Inheritance [ [ojf-duke-labs](https://github.com/ensomugnog/ojf-duke-labs) -> [3cf5bde](https://github.com/ensomugnog/ojf-duke-labs/commit/3cf5bde95f1d40faa295a200bb43f5edba2540d2) ]
   
 - [x] 07 - Handling Exceptions
+  
+  - [x] 01 - Handle Exceptions
 
 ## Repository configuration
 
