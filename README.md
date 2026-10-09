@@ -4,7 +4,7 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
 
 **Course**: [https://mylearn.oracle.com/ou/course/oracle-java-foundations/152254/251448](https://mylearn.oracle.com/ou/course/oracle-java-foundations/152254/251448)
 
-## Course Progress: 87.5%
+## Course Progress: 100%
 
 ## Course content
 
@@ -94,7 +94,7 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   
 - [x] 08 - Continue Your Learning
   
-  - [x] 01 - What's Next? 
+  - [x] 01 - What's Next?
 
 ## Repository configuration
 
