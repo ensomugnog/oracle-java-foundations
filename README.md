@@ -89,6 +89,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   - [x] 01 - Handle Exceptions
   
   - [x] 02 - Throw Exceptions
+  
+  - [x] 03 - Practice 11-1: Handling Exceptions [ [ojf-duke-labs](https://github.com/ensomugnog/ojf-duke-labs) -> [c619844](https://github.com/ensomugnog/ojf-duke-labs/commit/c61984474012229917e0113844777175d25bd8ad) ]
 
 ## Repository configuration
 
