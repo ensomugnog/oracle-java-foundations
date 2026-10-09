@@ -87,6 +87,8 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
 - [x] 07 - Handling Exceptions
   
   - [x] 01 - Handle Exceptions
+  
+  - [x] 02 - Throw Exceptions
 
 ## Repository configuration
 
