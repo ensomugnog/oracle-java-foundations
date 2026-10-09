@@ -78,7 +78,9 @@ Ready to kick off your Java programming journey? In this course, you’ll dive i
   
 - [x] 06 - Object-Oriented Approach to Code Reuse
   
-  - [x] 01 - Java Inheritance 
+  - [x] 01 - Java Inheritance
+  
+  - [x] 02 - Extend the Object class
 
 ## Repository configuration
 
